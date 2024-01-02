@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1095474609953",
+    "project_id": "taskcuy-a5673",
+    "storage_bucket": "taskcuy-a5673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095474609953:android:f9965ef03abbb8b50dc860",
+        "android_client_info": {
+          "package_name": "swy.kelompok8.taskcuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095474609953-5r8442i4c2oig874rrnjeasn9ir1ag71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYSv76oUPQm1lHnDRCoMu1PAmlsO9C2R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095474609953-5r8442i4c2oig874rrnjeasn9ir1ag71.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095474609953-dd50trkf6pl9i5hqu2h62ermhc0ohn80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskcuy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
