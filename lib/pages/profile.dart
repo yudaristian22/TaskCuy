@@ -107,22 +107,7 @@ class _ProfileState extends State<Profile> {
                         SizedBox(
                           height: 10,
                         ),
-                        IconButton(
-                          onPressed: () async {
-                            XFile? pickedImage = await picker.pickImage(
-                              source: ImageSource.gallery,
-                            );
-                            if (pickedImage != null) {
-                              // Upload the image to Firebase Storage
-                              await uploadImageToFirebase(pickedImage);
-                            }
-                          },
-                          icon: Icon(
-                            Icons.add_a_photo,
-                            color: Colors.teal,
-                            size: 30,
-                          ),
-                        ),
+
                         SizedBox(
                           height: 10,
                         ),
