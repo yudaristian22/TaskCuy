@@ -1,17 +1,13 @@
-# taskcuy
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # TaskCuy
+TaskCuy adalah alat bantu yang berguna untuk tetap terorganisir dan mengelola tugas-tugas Anda secara efisien. Dengan TaskCuy, Anda akan merasakan kemudahan dalam mengelola semua tugas, pekerjaan, dan proyek harian Anda dengan satu sentuhan. Dengan antarmuka yang elegan dan intuitif dan memanfaatkan fitur canggih untuk mengelola kategori tugas yang dapat disesuaikan.
+
+- Link App [PlayStore](https://play.google.com/store/apps/details?id=swy.kelompok8.taskcuy)
+- Link [Pitch Deck]()
+- Link [Presentasi Pitch Deck]()
+
+# Anggota Kelompok 8
+- Sami Irhamnillah (1217050
+- Wiki Nurrohman (1217050
+- Yuda Ristian Asgari (1217050146)
+
+# Screenshots
