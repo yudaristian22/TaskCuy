@@ -3,11 +3,9 @@ TaskCuy adalah alat bantu yang berguna untuk tetap terorganisir dan mengelola tu
 
 - Link App [PlayStore](https://play.google.com/store/apps/details?id=swy.kelompok8.taskcuy)
 - Link [Pitch Deck](https://www.canva.com/design/DAF4vBGibBw/7Ru5TCnYh8LCX_REM7D24g/view)
-- Link [Presentasi Pitch Deck]()
+- Link [Presentasi Pitch Deck](https://www.youtube.com/watch?v=BctrpBXJwrs&ab_channel=YudaRistian)
 
 # Anggota Kelompok 8
 - Sami Irhamnillah (1217050131)
 - Wiki Nurrohman (1217050140)
 - Yuda Ristian Asgari (1217050146)
-
-# Screenshots
